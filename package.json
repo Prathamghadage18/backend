@@ -1,5 +1,5 @@
 {
-  "name": "Worklify-backend",
+  "name": "worklify-backend",
   "version": "1.0.0",
   "description": "Backend for Worklify Consultant Platform",
   "main": "server.js",
